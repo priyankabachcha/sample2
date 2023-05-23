@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "Desktop/style.css"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"github.copilot"
+		]
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
